@@ -32,9 +32,6 @@ Records analysed: 100,000+
 - Monthly waiting time trends
 - Regional performance comparison
 
-## Dashboard Preview
-![Dashboard](images/dashboard_preview.png)
-
 ## Key Findings
 - Significant regional variation in RTT compliance
 - Seasonal spikes in emergency admissions
@@ -43,4 +40,4 @@ Records analysed: 100,000+
 ## Files in this Repository
 - notebooks/NHS_Project.ipynb – Python analysis
 - dashboard/NHS_Waiting_Time_Dashboard.pbix – Power BI dashboard
-- reports/NHS_Project_Report.pdf – project report
+- reports/NHS_Project_Report.pdf
